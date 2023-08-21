@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 15,
+        "id": 1,
+        "title": "Bubulubu",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/bubulubu.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 2,
+        "title": "Cacahuate Japonés",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/cacahuate.jpg"
+    },
+    {
+        "precio": 25,
+        "id": 3,
+        "title": "Jolly Rancher",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/jolly_rancher.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 4,
+        "title": "Mazapán",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/mazapan.jpg"
+    },
+    {
+        "precio": 22,
+        "id": 5,
+        "title": "Paleta Payaso",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/paleta_payaso.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 6,
+        "title": "Paleta Rockaleta",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/paleta-rockaleta.jpg"
+    },
+    {
+        "precio": 15,
+        "id": 7,
+        "title": "Panditas",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/panditas.jpg"
+    },
+    {
+        "precio": 8,
+        "id": 8,
+        "title": "Pelon Pelo Rico",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/pelon.jpg"
+    },
+    {
+        "precio": 2,
+        "id": 9,
+        "title": "Picafresa",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/picafresa_.jpg"
+    },
+    {
+        "precio": 28,
+        "id": 10,
+        "title": "Pocky",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/pocky.jpg"
+    },
+    {
+        "precio": 10,
+        "id": 11,
+        "title": "Pulparindo",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/pulparindo.jpg"
+    },
+    {
+        "precio": 30,
+        "id": 12,
+        "title": "Sour Patch",
+        "thumbnailUrl":"https://risuuwu.000webhostapp.com/carrito%20de%20compras/imagenes/sour.jpg"
+    }
+]
